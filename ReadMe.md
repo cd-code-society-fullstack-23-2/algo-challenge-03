@@ -1,5 +1,3 @@
-Of course! Let's modify the problem and its solution based on your requirements.
-
 ## **Vowel Shifter Secret Note Passer (Advanced)** 📝🔒
 
 **Description**:  
@@ -42,3 +40,4 @@ public class AdvancedVowelShifterChallenge {
 
 
 
+# algo-challenge-03
